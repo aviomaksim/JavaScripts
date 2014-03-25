@@ -1,0 +1,372 @@
+{"frames": [
+
+{
+	"filename": "Dog_Anim_lookleft_0.png",
+	"frame": {"x":343,"y":203,"w":111,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":2,"w":111,"h":199},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookleft_1.png",
+	"frame": {"x":230,"y":205,"w":111,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":3,"w":111,"h":201},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookleft_2.png",
+	"frame": {"x":123,"y":2,"w":117,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":6,"w":117,"h":201},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookleft_3.png",
+	"frame": {"x":242,"y":2,"w":123,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":10,"w":123,"h":199},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookleft_4.png",
+	"frame": {"x":367,"y":2,"w":137,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":13,"w":137,"h":195},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookleft_5.png",
+	"frame": {"x":506,"y":2,"w":143,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":15,"w":143,"h":191},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookleft_6.png",
+	"frame": {"x":573,"y":195,"w":145,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":15,"w":145,"h":189},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookleft_7.png",
+	"frame": {"x":770,"y":2,"w":143,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":143,"h":187},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookleft_8.png",
+	"frame": {"x":720,"y":193,"w":143,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":143,"h":187},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookleft_9.png",
+	"frame": {"x":865,"y":191,"w":135,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":16,"w":135,"h":185},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_0.png",
+	"frame": {"x":343,"y":203,"w":111,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":2,"w":111,"h":199},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_1.png",
+	"frame": {"x":117,"y":211,"w":111,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":1,"w":111,"h":203},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_2.png",
+	"frame": {"x":2,"y":2,"w":119,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":0,"w":119,"h":207},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_3.png",
+	"frame": {"x":2,"y":211,"w":113,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":4,"w":113,"h":205},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_4.png",
+	"frame": {"x":456,"y":199,"w":115,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":13,"w":115,"h":195},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_5.png",
+	"frame": {"x":651,"y":2,"w":117,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":17,"w":117,"h":189},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_6.png",
+	"frame": {"x":915,"y":2,"w":117,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":117,"h":185},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_7.png",
+	"frame": {"x":1034,"y":2,"w":119,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":19,"w":119,"h":183},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_8.png",
+	"frame": {"x":1002,"y":189,"w":119,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":19,"w":119,"h":183},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Dog_Anim_lookright_9.png",
+	"frame": {"x":1123,"y":187,"w":113,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":20,"w":113,"h":181},
+	"sourceSize": {"w":149,"h":213}
+},
+{
+	"filename": "Fish_Anim0000.png",
+	"frame": {"x":1026,"y":374,"w":122,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":18,"w":122,"h":128},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0001.png",
+	"frame": {"x":1150,"y":458,"w":72,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":66,"w":72,"h":50},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0002.png",
+	"frame": {"x":94,"y":418,"w":102,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":48,"w":102,"h":88},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0003.png",
+	"frame": {"x":318,"y":408,"w":110,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":49,"w":110,"h":94},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0004.png",
+	"frame": {"x":430,"y":404,"w":88,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":53,"w":88,"h":102},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0005.png",
+	"frame": {"x":520,"y":396,"w":90,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":62,"w":90,"h":106},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0006.png",
+	"frame": {"x":2,"y":418,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":78,"w":90,"h":90},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0007.png",
+	"frame": {"x":1238,"y":304,"w":92,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":95,"w":92,"h":54},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0008.png",
+	"frame": {"x":612,"y":386,"w":120,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":20,"w":120,"h":122},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0009.png",
+	"frame": {"x":198,"y":416,"w":118,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":59,"w":118,"h":92},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0010.png",
+	"frame": {"x":734,"y":382,"w":144,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":42,"w":144,"h":120},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0011.png",
+	"frame": {"x":880,"y":378,"w":144,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":28,"w":144,"h":130},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0012.png",
+	"frame": {"x":1155,"y":2,"w":130,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":28,"w":130,"h":142},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0013.png",
+	"frame": {"x":1332,"y":228,"w":158,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":98,"w":158,"h":76},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0014.png",
+	"frame": {"x":1287,"y":2,"w":162,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":83,"w":162,"h":66},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0015.png",
+	"frame": {"x":1284,"y":154,"w":160,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":79,"w":160,"h":72},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0016.png",
+	"frame": {"x":1332,"y":306,"w":150,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":86,"w":150,"h":80},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0017.png",
+	"frame": {"x":1150,"y":370,"w":158,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":79,"w":158,"h":86},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0018.png",
+	"frame": {"x":1287,"y":70,"w":160,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":73,"w":160,"h":82},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0019.png",
+	"frame": {"x":1310,"y":388,"w":140,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":64,"w":140,"h":84},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0020.png",
+	"frame": {"x":1272,"y":228,"w":56,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":54,"w":56,"h":74},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0021.png",
+	"frame": {"x":1238,"y":146,"w":44,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":49,"w":44,"h":74},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0022.png",
+	"frame": {"x":1238,"y":222,"w":32,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":43,"w":32,"h":80},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0023.png",
+	"frame": {"x":1449,"y":88,"w":44,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":32,"w":44,"h":82},
+	"sourceSize": {"w":200,"h":182}
+},
+{
+	"filename": "Fish_Anim0024.png",
+	"frame": {"x":1451,"y":2,"w":34,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":32,"w":34,"h":84},
+	"sourceSize": {"w":200,"h":182}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "dog_fish.png",
+	"format": "RGBA8888",
+	"size": {"w":1495,"h":510},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0588a64d5bf42593807a7139f1f75062$"
+}
+}

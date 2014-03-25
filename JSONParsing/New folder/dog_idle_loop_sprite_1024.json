@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "anim_Dog_loop_0000_Layer-4.png",
+	"frame": {"x":2,"y":204,"w":114,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":114,"h":206},
+	"sourceSize": {"w":122,"h":220}
+},
+{
+	"filename": "anim_Dog_loop_0001_Layer-3.png",
+	"frame": {"x":2,"y":2,"w":116,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":116,"h":200},
+	"sourceSize": {"w":122,"h":220}
+},
+{
+	"filename": "anim_Dog_loop_0002_Layer-2.png",
+	"frame": {"x":2,"y":412,"w":114,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":114,"h":204},
+	"sourceSize": {"w":122,"h":220}
+},
+{
+	"filename": "anim_Dog_loop_0003_Layer-1.png",
+	"frame": {"x":2,"y":618,"w":112,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":112,"h":210},
+	"sourceSize": {"w":122,"h":220}
+},
+{
+	"filename": "anim_Dog_loop_0004_Layer-0.png",
+	"frame": {"x":2,"y":830,"w":108,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":108,"h":214},
+	"sourceSize": {"w":122,"h":220}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "dog_idle_loop_sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":120,"h":1046},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e00d54e54443d8ebab4014299c9042a2$"
+}
+}

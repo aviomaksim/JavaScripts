@@ -1,0 +1,212 @@
+{"frames": [
+
+{
+	"filename": "Fisherman_Anim0000.png",
+	"frame": {"x":1076,"y":2,"w":73,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":207},
+	"sourceSize": {"w":83,"h":207}
+},
+{
+	"filename": "Fisherman_Anim0001.png",
+	"frame": {"x":1380,"y":2,"w":77,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":184},
+	"sourceSize": {"w":77,"h":184}
+},
+{
+	"filename": "Fisherman_Anim0002.png",
+	"frame": {"x":1955,"y":2,"w":76,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":134},
+	"sourceSize": {"w":76,"h":134}
+},
+{
+	"filename": "Fisherman_Anim0003.png",
+	"frame": {"x":1703,"y":2,"w":72,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":138},
+	"sourceSize": {"w":72,"h":138}
+},
+{
+	"filename": "Fisherman_Anim0004.png",
+	"frame": {"x":1629,"y":2,"w":72,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":138},
+	"sourceSize": {"w":72,"h":138}
+},
+{
+	"filename": "Fisherman_Anim0005.png",
+	"frame": {"x":1305,"y":2,"w":73,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":194},
+	"sourceSize": {"w":73,"h":194}
+},
+{
+	"filename": "Fisherman_Anim0006.png",
+	"frame": {"x":1151,"y":2,"w":152,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":12,"w":152,"h":201},
+	"sourceSize": {"w":170,"h":213}
+},
+{
+	"filename": "Fisherman_Anim0007.png",
+	"frame": {"x":1459,"y":2,"w":168,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":168,"h":180},
+	"sourceSize": {"w":184,"h":192}
+},
+{
+	"filename": "Fisherman_Anim0008.png",
+	"frame": {"x":1777,"y":2,"w":176,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":134},
+	"sourceSize": {"w":188,"h":134}
+},
+{
+	"filename": "Fisherman_Anim0009.png",
+	"frame": {"x":940,"y":2,"w":134,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":210},
+	"sourceSize": {"w":146,"h":210}
+},
+{
+	"filename": "Fisherman_Anim0010.png",
+	"frame": {"x":2,"y":2,"w":66,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":243},
+	"sourceSize": {"w":76,"h":243}
+},
+{
+	"filename": "Fisherman_Anim0011.png",
+	"frame": {"x":70,"y":2,"w":58,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":58,"h":239},
+	"sourceSize": {"w":62,"h":239}
+},
+{
+	"filename": "Fisherman_Anim0012.png",
+	"frame": {"x":130,"y":2,"w":58,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":58,"h":233},
+	"sourceSize": {"w":64,"h":233}
+},
+{
+	"filename": "Fisherman_Anim0013.png",
+	"frame": {"x":372,"y":2,"w":58,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":58,"h":230},
+	"sourceSize": {"w":64,"h":230}
+},
+{
+	"filename": "Fisherman_Anim0014.png",
+	"frame": {"x":312,"y":2,"w":58,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":58,"h":230},
+	"sourceSize": {"w":64,"h":230}
+},
+{
+	"filename": "Fisherman_Anim0015.png",
+	"frame": {"x":252,"y":2,"w":58,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":58,"h":230},
+	"sourceSize": {"w":64,"h":230}
+},
+{
+	"filename": "Fisherman_Anim0016.png",
+	"frame": {"x":190,"y":2,"w":60,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":230},
+	"sourceSize": {"w":64,"h":230}
+},
+{
+	"filename": "Fisherman_Anim0017.png",
+	"frame": {"x":432,"y":2,"w":60,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":60,"h":229},
+	"sourceSize": {"w":64,"h":229}
+},
+{
+	"filename": "Fisherman_Anim0018.png",
+	"frame": {"x":560,"y":2,"w":62,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":62,"h":228},
+	"sourceSize": {"w":64,"h":228}
+},
+{
+	"filename": "Fisherman_Anim0019.png",
+	"frame": {"x":494,"y":2,"w":64,"h":228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":228},
+	"sourceSize": {"w":64,"h":228}
+},
+{
+	"filename": "Fisherman_Anim0020.png",
+	"frame": {"x":624,"y":2,"w":64,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":227},
+	"sourceSize": {"w":64,"h":227}
+},
+{
+	"filename": "Fisherman_Anim0021.png",
+	"frame": {"x":690,"y":2,"w":64,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":223},
+	"sourceSize": {"w":64,"h":223}
+},
+{
+	"filename": "Fisherman_Anim0022.png",
+	"frame": {"x":874,"y":2,"w":64,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":64,"h":214},
+	"sourceSize": {"w":64,"h":220}
+},
+{
+	"filename": "Fisherman_Anim0023.png",
+	"frame": {"x":756,"y":2,"w":55,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":55,"h":223},
+	"sourceSize": {"w":63,"h":223}
+},
+{
+	"filename": "Fisherman_Anim0024.png",
+	"frame": {"x":813,"y":2,"w":59,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":220},
+	"sourceSize": {"w":61,"h":220}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "fisherman_sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":2033,"h":247},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:65fa00499eb4cf2027738a3c2fa4452d$"
+}
+}
